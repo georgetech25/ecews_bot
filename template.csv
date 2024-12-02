@@ -1,0 +1,504 @@
+facility,hospital_number,age,gender,education_level,marital_status,art_duration,changed_regimen,side_effects,adherence,missed_doses,base_line_viral_load,current_viral_load,most_recent_viral_load,first_cd4,current_cd4,smoking,alcohol,recreational_drugs,experience,clinic_appointments,barriers
+Akamkpa General Hospital,2344,28,Female,Primary,Married,3,NO,NO,ALWAYS,0,<1000,>1000,>1000,0,0,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,1599,37,Female,Post Secondary,Married,14,NO,NO,ALWAYS,0,<1000,<1000,<1000,1,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,09088,32,Female,Senior Secondary,Married,10,NO,NO,ALWAYS,0,<1000,<1000,<1000,2,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,0043TI,52,Female,Senior Secondary,Married,8,NO,NO,ALWAYS,0,<1000,<1000,<1000,3,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,1290,38,Female,Senior Secondary,Single,15,NO,NO,ALWAYS,0,<1000,<1000,<1000,4,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,1124,46,Female,Primary,Married,14,NO,NO,ALWAYS,0,<1000,<1000,<1000,5,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,2616,23,Female,Junior Secondary,Married,13,NO,NO,ALWAYS,0,<1000,<1000,<1000,6,>=200,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,13094,36,Female,Post Secondary,Single,14,NO,NO,ALWAYS,0,<1000,>1000,>1000,7,>=200,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,1590,48,Female,Primary,Single,5,NO,NO,ALWAYS,0,<1000,<1000,<1000,8,>=200,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,00509TI,37,Female,Primary,Single,12,NO,NO,ALWAYS,0,<1000,<1000,<1000,9,>=200,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,2553,54,Female,Junior Secondary,Married,3,NO,NO,ALWAYS,0,<1000,<1000,<1000,10,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,1727,56,Female,Senior Secondary,Married,7,NO,NO,ALWAYS,0,<1000,<1000,<1000,11,>=200,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,03426,47,Female,Primary,Single,5,NO,NO,ALWAYS,0,<1000,<1000,<1000,12,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,2023,45,Female,Senior Secondary,Single,13,NO,NO,ALWAYS,0,<1000,<1000,<1000,13,>=200,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,2215,56,Female,Senior Secondary,Married,13,NO,NO,ALWAYS,0,<1000,<1000,<1000,14,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,1795,44,Female,Primary,Married,8,NO,NO,ALWAYS,0,<1000,<1000,<1000,15,>=200,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,0815,52,Female,Primary,Married,13,NO,NO,ALWAYS,0,<1000,<1000,<1000,16,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,2031,54,Female,Primary,Single,15,NO,NO,ALWAYS,0,<1000,<1000,<1000,17,>=200,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,01774TI,58,Female,Senior Secondary,Single,11,NO,NO,ALWAYS,0,<1000,<1000,<1000,18,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,2368,42,Female,Primary,Married,17,NO,NO,ALWAYS,0,<1000,<1000,<1000,19,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,2073,48,Female,Primary,Married,9,NO,NO,ALWAYS,0,<1000,<1000,<1000,20,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,2743,43,Female,Primary,Married,5,YES,YES,RARELY,5-Mar,<1000,<1000,<1000,21,0,YES,YES,NO,Depression,Regularly,NO
+Akamkpa General Hospital,2554,44,Female,Senior Secondary,Married,8,NO,NO,ALWAYS,0,<1000,<1000,<1000,22,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,2280,45,Female,Senior Secondary,Married,7,NO,NO,ALWAYS,0,>1000,<1000,<1000,23,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,1285,58,Female,Primary,Married,13,NO,NO,ALWAYS,0,>1000,<1000,<1000,24,>=200,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,2406,44,Female,Primary,Married,6,NO,NO,ALWAYS,0,>1000,<1000,<1000,25,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,0292,43,Female,Senior Secondary,Married,8,NO,NO,ALWAYS,0,>1000,<1000,<1000,26,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,2701,37,Female,Primary,Married,11,NO,NO,ALWAYS,0,>1000,<1000,<1000,27,<200,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,0050TI,27,Female,Primary,Single,15,NO,NO,ALWAYS,0,>1000,<1000,<1000,28,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,2005,15,Female,Post Secondary,Single,12,NO,NO,ALWAYS,0,>1000,<1000,<1000,29,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,2222,62,Female,Primary,Married,4,NO,NO,ALWAYS,0,>1000,<1000,<1000,30,<200,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,1686,64,Female,Primary,Married,5,NO,NO,ALWAYS,0,>1000,<1000,<1000,31,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,1905,53,Female,Senior Secondary,Married,7,NO,NO,ALWAYS,0,>1000,<1000,<1000,32,>=200,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,1872,28,Female,Primary,Single,3,NO,NO,ALWAYS,0,>1000,<1000,<1000,33,>=200,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,1180,35,Female,Primary,Single,1,NO,NO,ALWAYS,0,>1000,>1000,>1000,34,0,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,0990,35,Female,Senior Secondary,Married,13,NO,NO,ALWAYS,0,>1000,<1000,<1000,35,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,0427,58,Female,Senior Secondary,Married,10,NO,NO,ALWAYS,0,>1000,<1000,<1000,36,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,2519,24,Female,Primary,Married,11,NO,NO,ALWAYS,0,>1000,<1000,<1000,37,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,2514,42,Female,Senior Secondary,Single,12,NO,NO,ALWAYS,0,>1000,<1000,<1000,38,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,1178,60,Female,Primary,Single,11,NO,NO,ALWAYS,0,>1000,<1000,<1000,39,>=200,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,1441,46,Female,Primary,Single,17,YES,YES,RARELY,5-Mar,>1000,<1000,<1000,40,0,YES,YES,NO,Depression,Regularly,NO
+Akamkpa General Hospital,1483,41,Female,Senior Secondary,Married,2,NO,NO,ALWAYS,0,>1000,<1000,<1000,41,>=200,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,0080ti,65,Female,Primary,Single,1,NO,NO,ALWAYS,0,>1000,<1000,<1000,42,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,1040,30,Female,None,Single,10,NO,NO,ALWAYS,0,>1000,<1000,<1000,43,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,0061ti,68,Female,Primary,Single,6,NO,NO,ALWAYS,0,>1000,>1000,>1000,44,0,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,09360,14,Female,Junior Secondary,Single,16,NO,NO,ALWAYS,0,>1000,<1000,<1000,45,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,2634,29,Female,Primary,Married,12,NO,NO,ALWAYS,0,<1000,<1000,<1000,46,>=200,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,1856,48,Female,Primary,Married,3,NO,NO,ALWAYS,0,<1000,>1000,>1000,47,0,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,0492,49,Female,Primary,Married,2,NO,NO,ALWAYS,0,<1000,<1000,<1000,48,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,0782,48,Female,Primary,Married,7,NO,NO,ALWAYS,0,<1000,<1000,<1000,49,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,2325,40,Female,Primary,Married,6,NO,NO,ALWAYS,0,<1000,<1000,<1000,50,>=200,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,1770,53,Female,Primary,Married,14,NO,NO,ALWAYS,0,<1000,<1000,<1000,51,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,1410,35,Female,Primary,Married,15,NO,NO,ALWAYS,0,>1000,<1000,<1000,52,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,0040TI,50,Female,Junior Secondary,Married,1,YES,YES,RARELY,5-Mar,<1000,<1000,<1000,53,0,YES,YES,NO,Depression,Regularly,NO
+Akamkpa General Hospital,0038ti,39,Female,Primary,Married,17,NO,NO,ALWAYS,0,<1000,<1000,<1000,54,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,2563,32,Female,Primary,Married,9,NO,NO,ALWAYS,0,<1000,<1000,<1000,55,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,2699,19,Female,Senior Secondary,Single,5,NO,NO,ALWAYS,0,<1000,<1000,<1000,56,>=200,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,0715,16,Female,Senior Secondary,Single,1,NO,NO,ALWAYS,0,<1000,<1000,<1000,57,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,0477,50,Female,Post Secondary,Married,13,NO,NO,ALWAYS,0,<1000,<1000,<1000,58,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,2517,43,Female,Post Secondary,Married,11,NO,NO,ALWAYS,0,<1000,<1000,<1000,59,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,0463,42,Female,Primary,Married,4,NO,NO,ALWAYS,0,<1000,<1000,<1000,60,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,1360,38,Female,Primary,Married,10,NO,NO,ALWAYS,0,<1000,<1000,<1000,61,>=200,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,2097,38,Female,Senior Secondary,Married,3,NO,NO,ALWAYS,0,<1000,<1000,<1000,62,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,2156,31,Female,Post Secondary,Married,16,NO,NO,ALWAYS,0,<1000,<1000,<1000,63,<200,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,1175,39,Female,Primary,Married,16,NO,NO,ALWAYS,0,<1000,<1000,<1000,64,301,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,2735,59,Female,Senior Secondary,Married,4,NO,NO,ALWAYS,0,<1000,<1000,<1000,65,>=200,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,5279,51,Female,Junior Secondary,Married,9,NO,NO,ALWAYS,0,<1000,<1000,<1000,66,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,1061,49,Female,Senior Secondary,Married,9,NO,NO,ALWAYS,0,<1000,<1000,<1000,67,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2387,32,Female,Primary,Married,16,NO,NO,ALWAYS,0,<1000,<1000,<1000,68,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2607,48,Female,Primary,Married,8,NO,NO,ALWAYS,0,<1000,<1000,<1000,69,>=200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2455,43,Female,Primary,Married,11,NO,NO,ALWAYS,0,<1000,<1000,<1000,70,449,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,0009,51,Female,Senior Secondary,Married,15,NO,NO,ALWAYS,0,<1000,<1000,<1000,71,>=200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,1959,59,Female,None,Married,13,NO,NO,ALWAYS,0,<1000,<1000,<1000,72,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,1917,52,Female,Senior Secondary,Married,16,NO,NO,ALWAYS,0,<1000,<1000,<1000,73,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2179,56,Female,Senior Secondary,Married,15,NO,NO,ALWAYS,0,<1000,<1000,<1000,74,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,23-Jun,61,Female,Primary,Married,1,NO,NO,ALWAYS,0,<1000,<1000,<1000,75,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,007/1168,44,Female,Senior Secondary,Married,9,NO,NO,ALWAYS,0,<1000,<1000,<1000,76,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2405,44,Female,None,Married,12,NO,NO,ALWAYS,0,<1000,<1000,<1000,77,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2646,54,Female,Post Secondary,Married,16,NO,NO,ALWAYS,0,<1000,<1000,<1000,78,<200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2654,32,Female,Primary,Married,15,NO,NO,ALWAYS,0,>1000,<1000,<1000,79,<200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2736,22,Female,Senior Secondary,Single,15,NO,NO,ALWAYS,0,<1000,<1000,<1000,80,>=200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2744,26,Female,Primary,Married,4,YES,YES,RARELY,5-Mar,<1000,<1000,<1000,81,0,NO,NO,NO,Depression,Regularly,NO
+Akamkpa General Hospital,2689,46,Female,Primary,Married,4,NO,NO,ALWAYS,0,<1000,<1000,<1000,82,>=200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2779,25,Female,Senior Secondary,Single,13,NO,NO,ALWAYS,0,<1000,<1000,<1000,83,>=200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2397,50,Female,Primary,Married,16,NO,NO,ALWAYS,0,<1000,<1000,<1000,84,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,1028,55,Female,Primary,Married,2,NO,NO,ALWAYS,0,<1000,<1000,<1000,85,>=200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,0905,62,Female,None,Widowed,14,NO,NO,ALWAYS,0,<1000,<1000,<1000,86,>=200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,12844,46,Female,Primary,Married,14,NO,NO,ALWAYS,0,<1000,<1000,<1000,87,>=200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,04683,38,Female,Primary,Married,9,NO,NO,ALWAYS,0,<1000,<1000,<1000,88,<200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,04369,40,Female,Primary,Married,8,NO,NO,ALWAYS,0,>1000,<1000,<1000,89,>=200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2038,28,Female,Senior Secondary,Single,16,NO,NO,ALWAYS,0,<1000,<1000,<1000,90,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2192,34,Female,Senior Secondary,Single,10,NO,NO,ALWAYS,0,<1000,<1000,<1000,91,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,0657,37,Female,Primary,Married,5,NO,NO,ALWAYS,0,>1000,<1000,<1000,92,>=200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,1469,33,Female,Post Secondary,Married,8,NO,NO,ALWAYS,0,<1000,<1000,<1000,93,>=200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2246,35,Female,Senior Secondary,Married,3,NO,NO,ALWAYS,0,<1000,<1000,<1000,94,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2776,32,Female,Primary,Single,12,NO,NO,ALWAYS,0,<1000,<1000,<1000,95,>=200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,1808,49,Female,Senior Secondary,Married,3,YES,YES,RARELY,5-Mar,<1000,<1000,<1000,96,0,NO,NO,NO,Depression,Regularly,NO
+Akamkpa General Hospital,0856,47,Female,Post Secondary,Married,4,NO,NO,ALWAYS,0,<1000,<1000,<1000,97,<200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,23272/21,34,Female,Primary,Single,3,NO,NO,ALWAYS,0,<1000,<1000,<1000,98,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2572,36,Female,Senior Secondary,Married,11,NO,NO,ALWAYS,0,<1000,<1000,<1000,99,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2738,37,Female,Senior Secondary,Single,3,NO,NO,ALWAYS,0,<1000,<1000,<1000,100,>=200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2362,83,Female,Senior Secondary,Single,15,NO,NO,ALWAYS,0,<1000,<1000,<1000,101,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2002,47,Female,Post Secondary,Single,5,NO,NO,ALWAYS,0,<1000,>1000,>1000,102,>=200,NO,NO,NO,None,Occasionally,YES
+Akamkpa General Hospital,0278,52,Female,Primary,Single,12,NO,NO,ALWAYS,0,<1000,<1000,<1000,103,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,0806,62,Female,Primary,Widowed,1,NO,NO,ALWAYS,0,<1000,<1000,<1000,104,>=200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2110,42,Female,None,Single,13,NO,NO,ALWAYS,0,<1000,<1000,<1000,105,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2530,20,Female,Primary,Single,15,NO,NO,ALWAYS,0,<1000,>1000,>1000,106,0,NO,NO,NO,None,Occasionally,YES
+Akamkpa General Hospital,0840,28,Female,Junior Secondary,Single,5,NO,NO,ALWAYS,0,<1000,>1000,>1000,107,>=200,NO,NO,NO,None,Occasionally,YES
+Akamkpa General Hospital,1228,55,Female,Senior Secondary,Single,15,NO,NO,ALWAYS,0,<1000,<1000,<1000,108,>=200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2777,27,Female,Senior Secondary,Single,2,NO,NO,ALWAYS,0,<1000,<1000,<1000,109,>=200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,3267,69,Female,Senior Secondary,Single,9,NO,NO,ALWAYS,0,<1000,<1000,<1000,110,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2775,28,Female,Senior Secondary,Single,11,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,111,>=200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2068,38,Female,Senior Secondary,Single,7,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,112,0,NO,NO,NO,None,Occasionally,YES
+Akamkpa General Hospital,1671,56,Female,Primary,Single,12,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,113,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2347,65,Female,Primary,Widowed,12,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,114,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2231,56,Female,Primary,Married,5,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,115,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,0654,16,Female,Senior Secondary,Single,11,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,116,>=200,NO,NO,NO,None,Occasionally,YES
+Akamkpa General Hospital,1656,53,Female,Primary,Single,11,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,117,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,01680TI,42,Female,Post Secondary,Single,16,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,118,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2525,18,Female,Primary,Single,12,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,119,0,NO,NO,NO,None,Occasionally,YES
+Akamkpa General Hospital,7765,38,Female,Senior Secondary,Married,8,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,120,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,0268,45,Female,Senior Secondary,Single,6,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,121,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2425,22,Female,Senior Secondary,Single,15,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,122,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,1789,14,Female,Primary,Single,11,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,123,0,NO,NO,NO,None,Occasionally,YES
+Akamkpa General Hospital,0025TI,69,Female,Primary,Single,3,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,124,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,0071TI,62,Female,Primary,Widowed,7,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,125,<200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2778,50,Female,Senior Secondary,Married,8,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,126,>=200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,0030ti,38,Female,Primary,Single,8,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,127,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2774,29,Female,Senior Secondary,Single,1,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,128,>=200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2317,44,Female,Senior Secondary,Single,12,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,129,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2381,55,Female,Senior Secondary,Single,4,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,130,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,0890,67,Female,Primary,Widowed,3,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,131,<200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2647,38,Female,Senior Secondary,Single,12,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,132,<200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2010,44,Female,Senior Secondary,Married,10,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,133,>=200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,0346,41,Female,Post Secondary,Married,11,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,134,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,0072ti,42,Female,Senior Secondary,Married,10,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,135,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,0799,41,Female,Senior Secondary,Single,2,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,136,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2718,39,Female,Senior Secondary,Single,11,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,137,>=200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2402,38,Female,Primary,Married,11,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,138,>=200,NO,NO,NO,None,Occasionally,YES
+Akamkpa General Hospital,2605,53,Female,Primary,Married,13,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,139,>=200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2568,49,Female,Primary,Married,16,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,140,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,1190,41,Female,Senior Secondary,Single,1,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,141,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,004/001,61,Female,Primary,Married,10,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,142,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,1370,40,Female,Primary,Married,5,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,143,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,1951,40,Female,Primary,Married,2,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,144,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2584,25,Female,Primary,Single,5,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,145,<200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2614,13,Female,Primary,Single,4,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,146,<200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2312,35,Female,Senior Secondary,Single,7,NO,NO,ALWAYS,2-Jan,>1000,<1000,<1000,147,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,1264,30,Female,Senior Secondary,Single,8,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,148,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,1375,50,Female,Primary,Married,16,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,149,>=200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,0048ti,61,Female,Primary,Single,1,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,150,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,1080,58,Female,Primary,Married,11,NO,NO,ALWAYS,2-Jan,>1000,<1000,<1000,151,>=200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,0574235,46,Female,Senior Secondary,Single,7,NO,NO,ALWAYS,2-Jan,>1000,<1000,<1000,152,>=200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,306/19TI,51,Female,Senior Secondary,Single,14,YES,YES,RARELY,5-Mar,<1000,<1000,<1000,153,0,NO,NO,NO,Depression,Regularly,NO
+Akamkpa General Hospital,2588,63,Female,Primary,Single,12,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,154,>=200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,1594,32,Female,Primary,Single,10,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,155,>=200,NO,NO,NO,None,Occasionally,YES
+Akamkpa General Hospital,2758,32,Female,Senior Secondary,Married,11,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,156,>=200,NO,NO,NO,None,Occasionally,YES
+Akamkpa General Hospital,2628,45,Female,Primary,Single,10,NO,NO,ALWAYS,2-Jan,>1000,<1000,<1000,157,<200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2696,28,Female,Senior Secondary,Single,10,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,158,>=200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2305,58,Female,Senior Secondary,Single,9,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,159,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2579,23,Female,Primary,Single,15,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,160,0,NO,NO,NO,None,Occasionally,YES
+Akamkpa General Hospital,2512,48,Female,Primary,Single,6,NO,NO,ALWAYS,2-Jan,>1000,<1000,<1000,161,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,1477,32,Female,Primary,Married,6,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,162,>=200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2617,42,Female,Primary,Married,14,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,163,>=200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2440,41,Female,Primary,Married,10,NO,NO,ALWAYS,2-Jan,>1000,<1000,<1000,164,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2522,43,Female,Primary,Married,17,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,165,0,NO,NO,NO,None,Occasionally,YES
+Akamkpa General Hospital,0610,41,Female,None,Married,16,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,166,>=200,NO,NO,NO,None,Occasionally,YES
+Akamkpa General Hospital,2603,33,Female,Primary,Single,3,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,167,<200,NO,NO,NO,None,Occasionally,YES
+Akamkpa General Hospital,2282,45,Female,Primary,Single,9,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,168,>=200,NO,NO,NO,None,Occasionally,YES
+Akamkpa General Hospital,2676,26,Female,Primary,Single,1,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,169,<200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2664,58,Female,Primary,Single,8,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,170,>=200,NO,NO,NO,None,Occasionally,YES
+Akamkpa General Hospital,2025,42,Female,Primary,Married,4,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,171,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,0059ti,37,Female,Primary,Married,1,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,172,0,NO,NO,NO,None,Occasionally,YES
+Akamkpa General Hospital,2076,50,Female,Primary,Married,9,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,173,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,00041,36,Female,Post Secondary,Married,17,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,174,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,0024TI,37,Female,Primary,Married,9,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,175,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,1910,35,Female,Primary,Married,4,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,176,>=200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2692,41,Female,Primary,Married,5,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,177,>=200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,48379,44,Female,Senior Secondary,Married,11,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,178,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2444,39,Female,Senior Secondary,Single,4,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,179,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2507,40,Female,Senior Secondary,Single,16,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,180,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2341,24,Female,Senior Secondary,Single,5,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,181,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2668,12,Female,Junior Secondary,Single,8,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,182,>=200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2415,64,Female,None,Married,11,NO,NO,ALWAYS,2-Jan,>1000,<1000,<1000,183,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2747,35,Female,Senior Secondary,Married,14,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,184,>=200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,1983,37,Female,Senior Secondary,Single,11,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,185,>=200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,0295,49,Female,Senior Secondary,Married,8,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,186,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,1689,40,Female,Senior Secondary,Married,11,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,187,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2118,40,Female,Senior Secondary,Married,17,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,188,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2262,43,Female,Primary,Married,7,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,189,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,12344,31,Female,Primary,Married,13,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,190,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2164,41,Female,Primary,Married,1,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,191,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2116,49,Female,Primary,Married,2,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,192,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,3964,36,Female,None,Married,4,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,193,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2313,31,Female,Senior Secondary,Married,12,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,194,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,1231,35,Female,Primary,Married,3,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,195,>=200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2427,52,Female,Primary,Married,2,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,196,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2693,55,Female,Primary,Widowed,1,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,197,>=200,NO,NO,NO,None,Occasionally,YES
+Akamkpa General Hospital,2450,42,Female,Primary,Single,4,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,198,<200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2472,39,Female,Senior Secondary,Married,12,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,199,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2720,41,Female,Primary,Married,17,NO,NO,ALWAYS,2-Jan,>1000,<1000,<1000,200,>=200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2642,28,Female,Senior Secondary,Single,9,NO,NO,ALWAYS,2-Jan,>1000,<1000,<1000,201,<200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2739,46,Female,Primary,Married,6,YES,YES,RARELY,5-Mar,<1000,<1000,<1000,202,0,NO,NO,NO,Depression,Regularly,NO
+Akamkpa General Hospital,2726B,47,Female,Primary,Married,15,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,203,301,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,1118,49,Female,Primary,Married,5,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,204,>=200,NO,NO,NO,None,Occasionally,YES
+Akamkpa General Hospital,2690,29,Female,Primary,Married,5,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,205,>=200,NO,NO,NO,None,Occasionally,YES
+Akamkpa General Hospital,0075ti,31,Female,Primary,Single,8,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,206,0,NO,NO,NO,None,Occasionally,YES
+Akamkpa General Hospital,2119,42,Female,Primary,Married,9,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,207,0,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,1705,53,Female,Primary,Single,17,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,208,>=200,NO,NO,NO,None,Occasionally,YES
+Akamkpa General Hospital,2443,31,Female,Primary,Single,7,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,209,0,NO,NO,NO,None,Occasionally,YES
+Akamkpa General Hospital,1411,59,Female,Primary,Single,16,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,210,0,NO,NO,NO,None,Occasionally,YES
+Akamkpa General Hospital,2497,28,Female,None,Married,1,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,211,0,NO,NO,NO,None,Occasionally,YES
+Akamkpa General Hospital,1956,32,Female,Primary,Single,17,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,212,0,NO,NO,NO,None,Occasionally,YES
+Akamkpa General Hospital,09486,41,Female,Senior Secondary,Married,3,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,213,0,NO,NO,NO,None,Occasionally,YES
+Akamkpa General Hospital,2728,61,Female,Primary,Married,3,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,214,<200,NO,NO,NO,None,Occasionally,YES
+Akamkpa General Hospital,2715,66,Female,Primary,Married,17,NO,NO,ALWAYS,2-Jan,>1000,<1000,<1000,215,>=200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2749,46,Female,Senior Secondary,Married,15,YES,YES,RARELY,5-Mar,<1000,<1000,<1000,216,0,NO,NO,NO,Depression,Regularly,NO
+Akamkpa General Hospital,1551,31,Female,Primary,Single,12,YES,YES,RARELY,5-Mar,>1000,<1000,<1000,217,0,NO,NO,NO,Anxiety,Regularly,NO
+Akamkpa General Hospital,1533,29,Female,Primary,Married,1,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,218,>=200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2729,29,Female,Primary,Married,6,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,219,>=200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2772,27,Female,None,Married,3,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,220,>=200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2766,23,Female,Primary,Married,14,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,221,>=200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,1744,40,Female,Primary,Married,8,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,222,<200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2724,31,Female,Primary,Single,13,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,223,>=200,NO,NO,NO,None,Regularly,NO
+Akamkpa General Hospital,2748,39,Female,Senior Secondary,Married,14,YES,YES,RARELY,5-Mar,<1000,<1000,<1000,224,0,NO,NO,NO,Anxiety,Regularly,NO
+Akamkpa General Hospital,2771,50,Female,Primary,Married,17,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,225,>=200,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,0046ti,48,Female,Primary,Married,14,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,226,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,2767,42,Female,Senior Secondary,Married,1,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,227,>=200,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,2768,33,Female,Senior Secondary,Married,4,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,228,>=200,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,2130,32,Female,None,Married,2,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,229,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,2645,36,Female,Senior Secondary,Married,10,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,230,>=200,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,2521,46,Female,Primary,Married,4,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,231,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,2703,29,Female,Post Secondary,Married,11,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,232,>=200,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,35130,50,Female,Primary,Single,16,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,233,0,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,2652,24,Female,Primary,Married,7,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,234,>=200,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,2760,29,Female,Senior Secondary,Married,12,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,235,>200,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,1851,40,Female,Primary,Widowed,6,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,236,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,2697,66,Female,None,Married,13,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,237,>=200,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,2426,52,Female,Primary,Married,17,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,238,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,1838,60,Female,None,Widowed,4,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,239,0,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,2731,31,Female,Primary,Separated,5,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,240,<200,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,2714,27,Female,Primary,Married,12,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,241,>=200,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,2688,34,Female,Primary,Married,11,NO,NO,ALWAYS,2-Jan,>1000,<1000,<1000,242,>=200,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,2673,35,Female,Primary,Married,10,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,243,>=200,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,2458,49,Female,Post Secondary,Married,4,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,244,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,1516,36,Female,Primary,Married,12,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,245,>=200,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,0273,52,Female,Primary,Married,7,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,246,>=200,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,2599,46,Female,Primary,Widowed,14,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,247,>=200,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,0520,40,Female,None,Widowed,1,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,248,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,1019,41,Female,Senior Secondary,Married,7,NO,NO,ALWAYS,2-Jan,>1000,<1000,<1000,249,<200,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,2098,30,Female,Primary,Married,8,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,250,<200,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,2582,25,Female,Primary,Married,3,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,251,<200,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,1325,30,Female,Primary,Married,7,NO,NO,ALWAYS,2-Jan,<1000,<1000,<1000,252,>=200,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,0079ti,36,Female,Primary,Married,1,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,253,0,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,2639,31,Female,Senior Secondary,Married,2,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,254,>=200,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,1772,26,Female,Primary,Married,11,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,255,0,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,1555,40,Female,Primary,Single,14,NO,NO,ALWAYS,2-Jan,>1000,<1000,<1000,256,>=200,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,02879,40,Female,Primary,Married,13,NO,NO,ALWAYS,2-Jan,>1000,<1000,<1000,257,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,2723,26,Female,None,Single,5,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,258,>=200,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,2022,36,Female,Post Secondary,Married,10,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,259,0,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,1668,48,Female,Post Secondary,Married,3,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,260,>=200,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,2302,55,Female,Primary,Widowed,17,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,261,0,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,0033ti,29,Female,Post Secondary,Married,5,YES,YES,RARELY,5-Mar,<1000,>1000,>1000,262,0,YES,YES,NO,Anxiety,Occasionally,YES
+Akamkpa General Hospital,1880,40,Female,Post Secondary,Married,3,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,263,0,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,1125,61,Female,None,Married,2,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,264,0,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,1104,51,Female,None,Married,17,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,265,>=200,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,2564,53,Female,None,Married,9,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,266,0,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,2244,33,Female,None,Married,4,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,267,0,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,2506,42,Female,None,Married,2,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,268,0,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,241,43,Female,None,Married,8,YES,YES,RARELY,>5,<1000,>1000,>1000,269,0,YES,YES,NO,Stress related to stigma or discrimination,Occasionally,YES
+Akamkpa General Hospital,1224,33,Female,None,Married,6,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,270,>=200,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,2704,34,Female,None,Single,14,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,271,>=200,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,2131,51,Female,Primary,Married,12,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,272,0,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,1693,58,Female,None,Widowed,12,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,273,0,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,2520,47,Female,None,Married,11,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,274,0,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,1788,43,Female,Senior Secondary,Married,6,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,275,0,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,1794,46,Female,None,Married,2,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,276,0,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,2399,28,Female,None,Single,6,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,277,0,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,2229,38,Female,Senior Secondary,Married,17,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,278,0,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,2541,55,Female,None,Married,5,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,279,0,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,2576,27,Female,Post Secondary,Single,2,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,280,0,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,893,62,Female,Primary,Widowed,13,YES,YES,RARELY,>5,<1000,>1000,>1000,281,0,YES,YES,NO,Stress related to stigma or discrimination,Occasionally,YES
+Akamkpa General Hospital,60,47,Female,Primary,Married,2,YES,YES,SOMETIMES,>5,<1000,>1000,>1000,282,0,YES,YES,NO,Depression,Occasionally,YES
+Akamkpa General Hospital,1958,41,Female,Primary,Married,16,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,283,0,YES,YES,NO,Depression,Occasionally,YES
+Akamkpa General Hospital,2516,35,Female,None,Married,12,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,284,0,YES,YES,NO,Depression,Occasionally,YES
+Akamkpa General Hospital,2672,39,Female,Primary,Married,10,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,285,>=200,YES,YES,NO,Depression,Occasionally,YES
+Akamkpa General Hospital,2248,35,Female,Senior Secondary,Married,6,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,286,>=200,YES,YES,NO,Depression,Occasionally,YES
+Akamkpa General Hospital,2641,32,Female,Senior Secondary,Married,14,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,287,>=200,YES,YES,NO,Depression,Occasionally,YES
+Akamkpa General Hospital,2656,37,Female,Primary,Married,5,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,288,<200,YES,YES,NO,Depression,Occasionally,YES
+Akamkpa General Hospital,0615,54,Female,Senior Secondary,Married,2,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,289,>=200,YES,YES,NO,Depression,Occasionally,YES
+Akamkpa General Hospital,2683,39,Female,Primary,Married,1,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,290,<200,YES,YES,NO,Anxiety,Occasionally,YES
+Akamkpa General Hospital,2609,26,Female,None,Married,5,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,291,>=200,YES,YES,NO,Anxiety,Occasionally,YES
+Akamkpa General Hospital,1632,50,Female,Primary,Married,13,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,292,0,YES,YES,NO,Anxiety,Occasionally,YES
+Akamkpa General Hospital,2074,41,Female,Senior Secondary,Married,13,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,293,0,YES,YES,NO,Stress related to stigma or discrimination,Occasionally,YES
+Akamkpa General Hospital,0076ti,27,Female,Primary,Married,6,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,294,0,YES,YES,NO,Stress related to stigma or discrimination,Occasionally,YES
+Akamkpa General Hospital,2659,28,Female,None,Married,12,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,295,>=200,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,1898,38,Female,Primary,Married,7,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,296,0,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,2585,63,Female,None,Married,5,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,297,>=200,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,0673,39,Female,Primary,Single,6,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,298,>=200,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,0628,59,Female,None,Widowed,10,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,299,>=200,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,2750,41,Female,Senior Secondary,Single,17,YES,YES,SOMETIMES,>5,>1000,>1000,>1000,300,0,YES,YES,NO,Depression,Occasionally,YES
+Akamkpa General Hospital,2746,21,Female,Primary,Single,13,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,301,>=200,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,2694,33,Female,Primary,Single,14,NO,NO,ALWAYS,2-Jan,<1000,>1000,>1000,302,>=200,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,2680,44,Female,None,Single,4,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,303,>=200,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,2678,46,Female,Primary,Married,6,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,304,<200,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,2598,28,Female,Primary,Married,14,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,305,<200,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,2260,51,Female,Primary,Married,9,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,306,0,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,0047ti,38,Female,Primary,Single,13,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,307,0,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,2575,40,Female,Senior Secondary,Married,10,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,308,0,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,0601,55,Female,Primary,Married,17,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,309,0,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,0480,47,Female,Primary,Married,12,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,310,0,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,2573,26,Female,Primary,Single,11,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,311,0,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,072791,51,Female,Primary,Single,13,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,312,<200,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,1900,52,Female,Primary,Single,10,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,313,0,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,0029,38,Female,Primary,Married,17,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,314,0,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,0060ti,48,Female,Primary,Widowed,17,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,315,0,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,2292,55,Female,Primary,Married,14,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,316,0,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,0098,53,Female,None,Married,15,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,317,0,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,2389,48,Female,Primary,Married,16,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,318,0,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,2158,47,Female,None,Married,5,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,319,0,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,0036ti,26,Female,Primary,Married,7,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,320,0,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,1418,56,Female,Primary,Married,3,NO,NO,ALWAYS,2-Jan,>1000,<1000,<1000,321,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,2461,35,Female,Senior Secondary,Married,11,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,322,0,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,2398,22,Female,Primary,Married,8,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,323,0,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,0051ti,29,Female,None,Separated,7,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,324,0,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,2644,19,Female,Senior Secondary,Single,3,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,325,>=200,YES,YES,NO,None,Occasionally,YES
+Akamkpa General Hospital,2762,30,Female,Primary,Married,2,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,326,>=200,YES,YES,NO,None,Rarely,YES
+Akamkpa General Hospital,13369,59,Female,Primary,Married,3,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,327,0,YES,YES,NO,None,Rarely,YES
+Akamkpa General Hospital,2355,39,Female,Senior Secondary,Single,15,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,328,0,YES,YES,NO,None,Rarely,YES
+Akamkpa General Hospital,2445,36,Female,Primary,Married,7,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,329,0,YES,YES,NO,None,Rarely,YES
+Akamkpa General Hospital,0054TI,42,Female,Primary,Married,11,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,330,0,YES,YES,NO,None,Rarely,YES
+Akamkpa General Hospital,2741,64,Female,Primary,Married,17,YES,YES,SOMETIMES,>5,>1000,>1000,>1000,331,0,YES,YES,NO,Depression,Rarely,YES
+Akamkpa General Hospital,00060,47,Female,Primary,Married,8,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,332,0,YES,YES,NO,None,Rarely,YES
+Akamkpa General Hospital,2761,24,Female,Primary,Single,17,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,333,>=200,YES,YES,NO,None,Rarely,YES
+Akamkpa General Hospital,1941,30,Female,Primary,Single,9,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,334,0,YES,YES,NO,None,Rarely,YES
+Akamkpa General Hospital,2273,54,Female,None,Single,14,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,335,0,YES,YES,NO,None,Rarely,YES
+Akamkpa General Hospital,2725,31,Female,Primary,Married,5,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,336,<200,YES,YES,NO,None,Rarely,YES
+Akamkpa General Hospital,2713,22,Female,Primary,Married,10,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,337,<200,YES,YES,NO,None,Rarely,YES
+Akamkpa General Hospital,2508,64,Female,Primary,Married,16,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,338,0,YES,YES,NO,None,Rarely,YES
+Akamkpa General Hospital,2593,29,Female,Primary,Married,1,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,339,<200,YES,YES,NO,None,Rarely,YES
+Akamkpa General Hospital,2563,27,Female,Primary,Single,12,YES,YES,SOMETIMES,>5,>1000,>1000,>1000,340,0,YES,YES,NO,Depression,Rarely,YES
+Akamkpa General Hospital,C/OTH/8/2023/1,35,Female,Primary,Married,3,YES,YES,SOMETIMES,>5,>1000,>1000,>1000,341,0,YES,YES,NO,Depression,Rarely,YES
+Akamkpa General Hospital,2756,21,Female,Primary,Single,7,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,342,>=200,YES,YES,NO,None,Rarely,YES
+Akamkpa General Hospital,1403,60,Female,None,Single,10,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,343,>=200,YES,YES,NO,None,Rarely,YES
+Akamkpa General Hospital,1387,37,Female,Senior Secondary,Single,7,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,344,>=200,YES,YES,NO,None,Rarely,YES
+Akamkpa General Hospital,2501,46,Female,None,Married,11,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,345,0,YES,YES,NO,None,Rarely,YES
+Akamkpa General Hospital,1745,51,Female,Primary,Married,4,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,346,>=200,YES,YES,NO,None,Rarely,YES
+Akamkpa General Hospital,2745,49,Female,Primary,Single,7,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,347,>=200,YES,YES,NO,None,Rarely,YES
+Akamkpa General Hospital,04906,40,Female,Primary,Married,13,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,348,0,YES,YES,NO,None,Rarely,YES
+Akamkpa General Hospital,2423,27,Female,Primary,Married,12,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,349,0,YES,YES,NO,None,Rarely,YES
+Akamkpa General Hospital,1179,14,Female,Junior Secondary,Single,12,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,350,>=200,YES,YES,NO,None,Rarely,YES
+Akamkpa General Hospital,0058TI,47,Female,Primary,Married,3,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,351,0,YES,YES,NO,None,Rarely,YES
+Akamkpa General Hospital,0002TI,40,Female,Primary,Married,11,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,352,>=200,YES,YES,NO,None,Rarely,YES
+Akamkpa General Hospital,0026TI,21,Female,Senior Secondary,Single,10,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,353,0,YES,YES,NO,None,Rarely,YES
+Akamkpa General Hospital,2770,23,Female,Primary,Single,8,YES,YES,SOMETIMES,>5,>1000,>1000,>1000,354,0,YES,YES,NO,Depression,Rarely,YES
+Akamkpa General Hospital,008/3214,40,Female,Primary,Single,2,NO,NO,ALWAYS,2-Jan,>1000,>1000,>1000,355,<200,YES,YES,NO,None,Rarely,YES
+Akamkpa General Hospital,0076,14,Female,Junior Secondary,Single,2,NO,NO,ALWAYS,2-Jan,>1000,<1000,<1000,356,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,2511,33,Female,Primary,Single,14,NO,NO,ALWAYS,2-Jan,>1000,<1000,<1000,357,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,0750,14,Female,Primary,Single,12,NO,NO,ALWAYS,2-Jan,>1000,<1000,<1000,358,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,2538,25,Female,Senior Secondary,Married,9,NO,NO,ALWAYS,2-Jan,>1000,<1000,<1000,359,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,8567,46,Female,None,Married,13,NO,NO,ALWAYS,2-Jan,>1000,<1000,<1000,360,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,0030,43,Female,Senior Secondary,Single,15,NO,NO,ALWAYS,2-Jan,>1000,<1000,<1000,361,0,YES,YES,NO,None,Regularly,NO
+Akamkpa General Hospital,TI/WT/0078,41,Female,Primary,Single,14,NO,NO,ALWAYS,2-Jan,>1000,<1000,<1000,362,0,YES,YES,NO,None,Regularly,NO
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
+,,,,,,,,,,,,,>1000,,,,,,,,
